@@ -21,5 +21,5 @@
 	- Una vez hayas configurado estas opciones, los cambios que hagas se enviarán a github cada 60 segundos.
 -
 - # Zotero
-	-
+	- Para usar Zotero en logseq, debes tenerlo instalado en tu equipo.
 -
