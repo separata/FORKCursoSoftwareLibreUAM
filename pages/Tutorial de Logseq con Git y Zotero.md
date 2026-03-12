@@ -23,5 +23,5 @@
 - # Zotero
 	- Para usar Zotero en logseq, debes tenerlo instalado en tu equipo.
 	- ## Bibliotecas compartidas
-	- Para poder compartir nuestra bibliografía, usaremos
+	- Para poder compartir nuestra bibliografía, usaremos la librería de el grupo público en [zotero.org](https://www.zotero.org/groups/6464350/software_libre_uam)
 -
