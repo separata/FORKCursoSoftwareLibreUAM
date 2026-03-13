@@ -10,9 +10,8 @@
 		- Visita la web del repositorio y haz un fork.
 		  logseq.order-list-type:: number
 		  ![Screenshot_20260312_114043.png](../assets/Screenshot_20260312_114043_1773312065052_0.png)
-		- Clona tu fork del repositorio en tu equipo. Para ello, sigue las instrucciones de descarga de
+		- Clona tu fork del repositorio en tu equipo. Para ello, sigue las instrucciones de clonado de un repositorio con token de autenticación que viste en la lección sobre git.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
 -
 - ## Habilitar git en Logseq
 	- En las opciones de configuración de Logseq, habilita **Git** y el **auto commit** para que los cambios se envíen automáticamente a vuestro repositorio en github.
@@ -24,6 +23,6 @@
 	- Para usar Zotero en logseq, debes tenerlo instalado en tu equipo.
 	- ## Bibliotecas compartidas
 	- Para poder compartir nuestra bibliografía, usaremos [la librería de nuestro grupo en zotero.org](https://www.zotero.org/groups/6464350/software_libre_uam)
--
--
+	-
+		-
 -
