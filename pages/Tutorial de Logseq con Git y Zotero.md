@@ -10,6 +10,9 @@
 		- Visita la web del repositorio y haz un fork.
 		  logseq.order-list-type:: number
 		  ![Screenshot_20260312_114043.png](../assets/Screenshot_20260312_114043_1773312065052_0.png)
+		- LATER ACTUALIZAR ESTO
+		  logseq.order-list-type:: number
+		  SCHEDULED: <2026-03-15 Sun>
 		- Clona el repositorio en tu equipo. para ello, escribe el comando `git clone ` seguido de la url de tu repositorio. 
 		  logseq.order-list-type:: number
 		  ![Screenshot_20260312_114650.png](../assets/Screenshot_20260312_114650_1773312421345_0.png)
