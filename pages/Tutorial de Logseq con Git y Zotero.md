@@ -27,6 +27,7 @@
 	- LATER En los ajustes de Logseq, podemos habilitar Zotero desde la pestaña de características
 	  ![Screenshot_20260316_090810.png](../assets/Screenshot_20260316_090810_1773648534024_0.png)
 	  Usaremos la información de nuestro usuario en logseq.org, con una nueva clave, generada en [https://www.zotero.org/settings/keys](https://www.zotero.org/settings/keys) para conectar logseq a nuestra biblioteca. Cuando generemos la clave, podremos indicar que también tiene permisos para acceder a nuestros grupos, para poder hacer uso de la biblioteca compartida.
-	- Una vez tenemos configurado Logseq, podemos añadir una referencia escribiendo `/Logseq`
+	- Una vez tenemos configurado Logseq, podemos añadir una referencia escribiendo `/Logseq` y ejecutando dicho comando. Se abrirá una búsqueda en nuestra biblioteca y la refencia quedará vinculada.
+	- /zotero
 -
 -
