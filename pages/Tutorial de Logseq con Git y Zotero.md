@@ -29,5 +29,5 @@
 	  Usaremos la información de nuestro usuario en logseq.org, con una nueva clave, generada en [https://www.zotero.org/settings/keys](https://www.zotero.org/settings/keys) para conectar logseq a nuestra biblioteca. Cuando generemos la clave, podremos indicar que también tiene permisos para acceder a nuestros grupos, para poder hacer uso de la biblioteca compartida. El User ID podéis encontrarlo en vuestra configuración de seguridad de logseq.org, bajo el botón para generar una nueva clave:
 	  ![Screenshot_20260316_093908.png](../assets/Screenshot_20260316_093908_1773650489015_0.png)
 	- Una vez tenemos configurado Logseq, podemos añadir una referencia escribiendo `/Logseq` y ejecutando dicho comando. Se abrirá una búsqueda en nuestra biblioteca y la refencia quedará vinculada
-	-
+	- /zotero
 -
