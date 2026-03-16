@@ -24,7 +24,8 @@
 	- ## Bibliotecas compartidas
 	- Para poder compartir nuestra bibliografía, usaremos [una biblioteca de grupo en zotero.org](https://www.zotero.org/groups/6464350/software_libre_uam)
 	- ## Configurar Zotero en Logseq
-	- En los ajustes de Logseq, podemos habilitar Zotero desde la pestaña de características
+	- LATER En los ajustes de Logseq, podemos habilitar Zotero desde la pestaña de características
 	  ![Screenshot_20260316_090810.png](../assets/Screenshot_20260316_090810_1773648534024_0.png)
+	  Usaremos la información de nuestro usuario en logseq.org, con una nueva clave, generada en [https://www.zotero.org/settings/keys](https://www.zotero.org/settings/keys) para conectar logseq a nuestra biblioteca. Cuando gener
 -
 -
