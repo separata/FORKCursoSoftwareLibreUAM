@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :zotero/settings-v2 {"default" {:type :user, :type-id "atfornes", :page-insert-prefix "@", :zotero-linked-attachment-base-directory ""}
- "atfornes" {:type-id "", :prefer-citekey? false, :type :user}}}
+ "atfornes" {:type-id "atfornes", :prefer-citekey? false, :type :user}}}
