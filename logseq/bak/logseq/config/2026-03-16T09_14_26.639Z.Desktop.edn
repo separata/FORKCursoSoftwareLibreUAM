@@ -420,4 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :zotero/settings-v2 {"atfornes" {:type-id "6464350", :prefer-citekey? false, :type :group, :zotero-data-directory "~/Zotero"}
- "UAM" {:type :group, :type-id "6464350"}}}
+ "UAM" {:type :user, :type-id "1775023"}}}
