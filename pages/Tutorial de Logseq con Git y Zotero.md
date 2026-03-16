@@ -27,9 +27,11 @@
 	- LATER En los ajustes de Logseq, podemos habilitar Zotero desde la pestaña de características
 	  ![Screenshot_20260316_090810.png](../assets/Screenshot_20260316_090810_1773648534024_0.png)
 	  Usaremos la información de nuestro usuario en logseq.org, con una nueva clave, generada en [https://www.zotero.org/settings/keys](https://www.zotero.org/settings/keys) para conectar logseq a nuestra biblioteca. Cuando generemos la clave, podremos indicar que también tiene permisos para acceder a nuestros grupos, para poder hacer uso de la biblioteca compartida. En los ajustes de Zotero en logseq, pegaremos nuestra API Key, y pondremos cono group ID el id del grupo de zotero.org, que podemos encontrar en su URL
-	- Si preferís usar vuestra bibliioteca personal, el User ID podéis encontrarlo en vuestra configuración de seguridad de logseq.org, bajo el botón para generar una nueva clave:
+	  ![Screenshot_20260316_103728.png](../assets/Screenshot_20260316_103728_1773653943160_0.png)
+	- Si preferís usar vuestra bibliioteca personal, podéis encontrar el User ID en [vuestra configuración de seguridad de logseq.org](https://www.zotero.org/settings/security), bajo el botón para generar una nueva clave:
 	  ![Screenshot_20260316_093908.png](../assets/Screenshot_20260316_093908_1773650489015_0.png)
 	- Una vez tenemos configurado Logseq, podemos añadir una referencia escribiendo `/Logseq` y ejecutando dicho comando. Se abrirá una búsqueda en nuestra biblioteca y la refencia quedará vinculada
 	- [[@Why ‘open’ AI systems are actually closed, and why this matters]]
+	-
 	- ((69b7ceaa-c03b-41ca-a8d1-1090df61fe82))
 	-
