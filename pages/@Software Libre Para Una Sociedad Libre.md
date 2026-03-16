@@ -1,0 +1,13 @@
+date:: [[Feb 26th, 2024]]
+publisher:: Traficantes de sueños
+isbn:: 978-84-933555-1-7
+title:: @Software Libre Para Una Sociedad Libre
+item-type:: [[book]]
+access-date:: 2024-02-28
+original-title:: Software Libre Para Una Sociedad Libre
+url:: https://traficantes.net/libros/software-libre-para-una-sociedad-libre
+authors:: [[Stallman, Richard]]
+links:: [Local library](zotero://select/library/items/EN7KP8CR), [Web library](https://www.zotero.org/users/19961998/items/EN7KP8CR)
+
+- [[Abstract]]
+	- Software libre para una sociedad libre es la primera edición castellana autorizada por Richard M. Stallman de su libro Free Software, Free Society.Un exhaustivo conjunto de ensayos y artículos que recorren la década de 1990 y los primeros años del nuevo milenio, y que conforman quizás la mejor apología escrita del software libre como dispositivo de libertad y democracia. Desde Traficantes de Sueños agradecemos la tarea de los compañeros y compañeras de la bibliowed de Sindominio a la hora de la edición digital de este texto. Os ponemos a disposición un pdf 1.4 enriquecido y generado en software libre. "El software libre es una cuestión de libertad: la gente debería de ser libre de usar el software de todas las formas consideradas socialmente útiles." Así suele sentenciar Richard Stallman, destacando que la programación y el software son asuntos que competen a la libertad y a la comunidad. Software libre para una sociedad libre es una colección de ensayos en los que, precisamente, se proponene y se analizan esos asuntos sociales y políticos que habitualmente quedan al margen del ámbito de la producción técnica. A través de la definición de software libre, como aquel que es público y abierto, que puede ser modificado y utilizado libremente, y que puede ser copiado y distribuido de la forma que se desee, se descubre una iniciativa colectiva que, a través de la cooperación voluntaria de sus creadores, es capaz de producir sofisticadas herramientas informáticas al servicio de la comunidad. De este modo, el acceso a la "cocina" del software libre se presenta como el acceso a una perspectiva que no comprende la tecnología en términos reductivos o binarios. Las cuestiones jurídicas, la propiedad y las licencias del software, las formas cooperativas de desarrollo de los programas, son elementos insoslayables en esta cuestión y este libro es un alegato (muy bien justificado) en defensa de la continuidad del software libre, amenazado hoy por las normativas que pretenden la patentabilidad de los métodos de programación.
