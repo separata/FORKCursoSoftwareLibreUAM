@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Tutorial de Logseq con Git y Zotero"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,4 +419,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type :user, :type-id "atfornes"}}}
+ :zotero/settings-v2 {"default" {:type :user, :type-id "atfornes", :page-insert-prefix "@", :zotero-linked-attachment-base-directory ""}
+ "atfornes" {:type-id "atfornes", :prefer-citekey? false, :type :user}}}
